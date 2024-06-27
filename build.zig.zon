@@ -1,0 +1,13 @@
+.{
+    .name = "glfw",
+    .version = "0.0.0",
+    .paths = .{
+        "include/",
+        "src/",
+        "build.zig",
+        "build.zig.zon",
+        "CONTRIBUTORS.md",
+        "README.md",
+        "LICENSE.md",
+    },
+}
